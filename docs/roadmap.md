@@ -2,11 +2,11 @@
 
 ## Current Repository State
 
-The repository currently contains only a minimal README. There is no application source code, build setup, package manifest, or test setup yet. The first implementation step should therefore be project scaffolding rather than refactoring existing code.
+The repository now contains an initial dependency-free browser prototype with Canvas rendering, keyboard driving, route stops, route scoring, camera modes, and local save persistence. The next implementation step is to grow this prototype toward the planned TypeScript/Vite/Babylon architecture without losing the runnable baseline.
 
 ## Phase 0: Planning Baseline
 
-Status: In progress.
+Status: Complete.
 
 Goals:
 
@@ -22,6 +22,8 @@ Deliverables:
 - Development Roadmap.
 
 ## Phase 1: Project Foundation
+
+Status: Started with a dependency-free runnable prototype.
 
 Goals:
 
